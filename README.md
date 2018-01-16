@@ -2,7 +2,7 @@
 
 Safe Zone is a situational awareness device to enhance emergency service participation of forestry workers and wildland firefighters. Features include:
 
-### * Location and mapping
+#### * Location and mapping
 ### * Position and tracking 
 
 Additional features include:
