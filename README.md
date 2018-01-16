@@ -1,3 +1,14 @@
+## Welcome to Safe Zone's GitHub Page
+
+Safe Zone is a situational awareness device to enhance emergency service participation of forestry workers and wildland firefighters. Features include:
+
+### * Location and mapping
+### * Position and tracking 
+
+Additional features include:
+- 10 Standard Orders
+- 18 Watchout Situations
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jiltedflower/SafeZone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
