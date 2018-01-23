@@ -1,7 +1,7 @@
 ## Welcome to Safe Zone's GitHub Pages! 
 
 
-![Image(https://lh3.googleusercontent.com/FNPWhwyvY6k9JsSTqcBGJi0dPPU0rOuN5oAZBkMevUOWZCMRPcG8HDdQq-nqZaM9Ug3w4EVh-I0NssdibVUBoGXL6xLiGXegyjp8kRbMlPfOUynUVocBKgJQjwWM7afU3TsAlm6CQsQvrEuzegTC4d5nOdFbg9zstkVlu60QVUaZAc8aAsiErmEOv5yDCy_s-Kr597expaIf1PYvy0HH_TgJMKZPXYra2CbVeyudH_VPa2yWx27V4v2D6M_EjW4uabhcDsOYJopbZfPRAPD7nBNeeIsWhxHVzNwcy2x1AHhz8f_ckdvOyAZP4FZA4k6xjerR-yrh2_0d_ZsS3ArpMqbyFybBpQKcgifyNdlofCnzWzz647vQhT5MNI6fwzzt7btVd3dhrSZHy3eNWRkYASyaQG-8-ElJ6CqYRpXh3BuM3YYjkq8D5oU5Q9NW0S-5qJD2Ob3qhrsbqB9PHddcOU0WakkejvpzWDJdL2U1MbI-tF9YG0OQ9wTK_T2itvbAsmLFGeuycQSkPKLtwMGbeeNJT7WnzJcOZ_j2esrKnlwwa6eqn3qSStBAJV5qoNGo3uYxrlJbTe9Hb3DFZMV7lvc__Pwhr26J9KCLQNg=s220-no)
+
 ###_SAFE ZONE™   is a situational awareness utility intended for use in land management  for forestry work and wildland emergency services.  Main features include:_
 
 >> L o c a t i o n   a n d   M a p p i n g
