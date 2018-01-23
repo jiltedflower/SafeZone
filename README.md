@@ -12,10 +12,13 @@ _Safe Zone™   is a situational awareness utility intended for use in land mana
 
 - 10 Standard Orders
 - 18 Watchout Situations
-<br>
+
+
 `Additional Tools were designed by the` [United States Forest Service (USFS)](https://www.fs.fed.us/fire/safety/10_18/10_18.html)
 
+
 ### More soon . . .
+
 __________
 
 
