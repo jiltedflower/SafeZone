@@ -2,11 +2,11 @@
 
 
 
-###_SAFE ZONE™   is a situational awareness utility intended for use in land management  for forestry work and wildland emergency services.  Main features include:_
+_SAFE ZONE™   is a situational awareness utility intended for use in land management  for forestry work and wildland emergency services.  Main features include:_
 
->> L o c a t i o n   a n d   M a p p i n g
+- L o c a t i o n   a n d   M a p p i n g
 
->> P o s i t i o n   a n d   T r a c k i n g
+- P o s i t i o n   a n d   T r a c k i n g
 
 
 
