@@ -1,8 +1,8 @@
-### Welcome to *Safe Zone* GitHub Pages! 
+## Welcome to *SAFE ZONE* GitHub Pages! 
 
 
 
-_SAFE ZONE™   is a situational awareness utility intended for use in land management  for forestry work and wildland emergency services.  Main features include:_
+_Safe Zone™   is a situational awareness utility intended for use in land management  for forestry work and wildland emergency services.  Main features include:_
 ```
 - Location  a n d  Mapping
 
