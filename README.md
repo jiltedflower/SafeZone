@@ -1,5 +1,5 @@
 ![Safe Zone](https://www.gravatar.com/userimage/57266990/1e9256e1fb002b3ca92c81425ebad7b9?size=120)
-## Welcome to [*SAFE ZONE*](https://jiltedflower.github.io/SafeZone/) GitHub Pages! 
+## Welcome to [Safe Zone](https://jiltedflower.github.io/SafeZone/) GitHub Pages! 
 
 
 _Safe Zone™   is a situational awareness utility intended for use in land management  for forestry work and wildland emergency services.  Main features include:_
