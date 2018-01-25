@@ -1,3 +1,4 @@
+![Safe Zone](https://www.gravatar.com/userimage/57266990/1e9256e1fb002b3ca92c81425ebad7b9?size=120)
 ## Welcome to *SAFE ZONE* GitHub Pages! 
 
 
